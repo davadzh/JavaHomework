@@ -1,4 +1,4 @@
-package com.company.Tasks;
+package com.company.HW1.Tasks;
 
 public final class Task5 {
     public static void getGipotenuza(float a, float b)

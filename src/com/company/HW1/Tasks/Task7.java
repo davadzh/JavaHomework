@@ -1,4 +1,4 @@
-package com.company.Tasks;
+package com.company.HW1.Tasks;
 
 public final class Task7 {
     public static void theNumberOfTens(int number)

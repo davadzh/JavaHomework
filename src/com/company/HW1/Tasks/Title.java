@@ -1,4 +1,4 @@
-package com.company.Tasks;
+package com.company.HW1.Tasks;
 
 public final class Title {
     public static void print(int number)

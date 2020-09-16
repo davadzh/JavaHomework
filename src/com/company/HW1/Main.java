@@ -1,5 +1,5 @@
-package com.company;
-import com.company.Tasks.*;
+package com.company.HW1;
+import com.company.HW1.Tasks.*;
 
 public class Main {
 

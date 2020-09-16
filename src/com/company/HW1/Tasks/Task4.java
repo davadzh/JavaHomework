@@ -1,4 +1,4 @@
-package com.company.Tasks;
+package com.company.HW1.Tasks;
 
 public final class Task4 {
     public static void swapIntVars(int x, int y)
